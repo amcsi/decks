@@ -2,11 +2,13 @@
 1 Adarkar Wastes
 1 Akroma's Blessing
 1 Akroma's Vengeance
+1 Alandra, Sky Dreamer
 1 Alhammarret's Archive
 1 Arcane Denial
 1 Arcane Signet
 1 Ash Barrens
 1 Astral Drift
+1 Astral Slide
 1 Aven Wind Guide
 1 Azorius Chancery
 1 Azorius Signet
@@ -43,7 +45,6 @@
 1 Forgotten Cave
 1 Forsake the Worldly
 1 Gavi, Nest Warden
-1 Glint-Horn Buccaneer
 1 Harmonic Prodigy
 1 Hieroglyphic Illumination
 1 Idyllic Tutor
@@ -64,12 +65,12 @@
 1 Nimble Obstructionist
 1 Ominous Seas
 2 Plains
-1 Psychosis Crawler
 1 Radiant's Judgment
 1 Raugrin Crystal
 1 Raugrin Triome
 1 Reliquary Tower
 1 Remote Isle
+1 Rhystic Study
 1 Rielle, the Everwise
 1 Sea of Clouds
 1 Secluded Steppe
@@ -86,7 +87,6 @@
 1 Tectonic Reformation
 1 Teferi's Ageless Insight
 1 Teferi's Protection
-1 The Council of Four
 1 The Locust God
 1 Thought Vessel
 1 Training Center
